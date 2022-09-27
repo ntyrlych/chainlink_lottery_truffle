@@ -2,13 +2,6 @@
 
 > Note! This has recently been updated for the new Chainlink VRF API. `userProvidedSeed` is no longer needed. 
 
-<br/>
-<p align="center">
-<a href="https://academy.ivanontech.com/" target="_blank">
-<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/1192645/settings_images/09PcimqsSdulelqfNUGE_IvanOnTech_Landscape.png" width="225" alt="Ivan On Tech Logo">
-</a>
-</p>
-<br/>
 
 ## Requirements
 
